@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40;
+    padding: 30px;
+    background-color: #070616;
+}
+
+.contact-info {
+    max-width: 450px;
+    margin: auto;
+    background: #070616;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info h2 {
+    color: #000000;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    margin: 10px 0;
+    font-size: 20px;
+    color: #555;
+}
+
+.contact-info a {
+    color: #1a73e8;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+.contact-info p strong {
+    color: #333;
+}
